@@ -1,0 +1,18 @@
+.comment {
+  border: 2px solid red;
+  margin: 10px;
+  width: auto;
+  height: auto;
+  padding-left: 50px;
+  background-color: beige;
+  border-radius: 20px;
+}
+.no {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.open{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
